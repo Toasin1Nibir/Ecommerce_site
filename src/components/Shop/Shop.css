@@ -3,9 +3,12 @@
 }
 .product-container{
     height: 70%;
-    width: 85%;
+    width: 75%;
     margin-left: 20px;
     margin-right: 5px;
     border: 1px solid lightgray;
    
+}
+.cart-container{
+    margin-left: 20px
 }
